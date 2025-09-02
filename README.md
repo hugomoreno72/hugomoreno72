@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there! I'm Hugo
 
-<!--
-**hugomoreno72/hugomoreno72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently enrolled in the **Artificial Intelligence Bootcamp at KeepCoding®**, an intensive and hands-on program that covers the end-to-end development of AI-based solutions. I am gaining strong skills in Python, Machine Learning, Deep Learning, NLP, LLMs, MLOps, SQL, and BigQuery, among others — all with a practical focus on solving real-world problems.
 
-Here are some ideas to get you started:
+💡 I hold a **Chemical Engineering degree from the University of Seville** and I am passionate about languages, especially English, having achieved the Cambridge C1 certification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies & Tools
+- **Languages**: Python 🐍 | R 📊 | SQL  
+- **Libraries & Frameworks**: NumPy | Pandas | Matplotlib | Scikit-learn  
+- **Areas of Interest**: Data Science | Machine Learning | Artificial Intelligence  
+- **Others**: Git | GitHub | Jupyter  
+
+
