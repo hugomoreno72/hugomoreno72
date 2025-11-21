@@ -8,7 +8,7 @@
 
 ## 🚀 Technologies & Tools
 - **Languages**: Python 🐍 | R 📊 | SQL  
-- **Libraries & Frameworks**: NumPy | Pandas | Matplotlib | Scikit-learn  
+- **Libraries & Frameworks**: NumPy | Pandas | Matplotlib | Scikit-learn | TensorFlow
 - **Areas of Interest**: Data Science | Machine Learning | Artificial Intelligence  
 - **Others**: Git | GitHub | Jupyter  
 
